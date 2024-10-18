@@ -2,6 +2,6 @@
   "name": "Uji AVS",
   "website": "",
   "description": "Operator securing the dog world by providing decentralized security to all the kibble provider",
-  "logo": "https://www.clipartmax.com/png/middle/12-127625_i-love-french-bulldogs-dog-silhouette-french-bulldog.png",
+  "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
   "twitter": ""
 }
